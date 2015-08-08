@@ -1,0 +1,16 @@
+{
+    "name": "Test Conf Dev Load",
+    "params": {
+        "start": [
+            0,
+            25,
+            50,
+            75,
+            100,
+            125,
+            150
+        ],
+		"q": "tests/test_queries.json",
+		"single":["single"]
+    }
+}

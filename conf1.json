@@ -1,0 +1,17 @@
+{
+    "name": "Test Query Dev Load",
+	"number_of_queries":20,
+	"base" : "http://localhost:7074/solr/prodmatcher/select",
+    "params": {
+        "start": [
+            0,
+            25,
+            50,
+            75,
+            100,
+            125,
+            150
+        ],
+		"q": "queries.json",
+    }
+}

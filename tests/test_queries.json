@@ -1,0 +1,20 @@
+[
+    "_query_:{!edismax+v%3D'(ergonomic+keyboard)'+mm%3D$mm}",
+    "ergonomic+keyboard",
+    "_query_:{!edismax+v%3D'(drip+pan)'+mm%3D$mm}",
+    "drip+pan",
+    "_query_:{!edismax+v%3D'(fxa)'+mm%3D$mm}",
+    "fxa",
+    "_query_:{!edismax+v%3D'(drip+pan)'+mm%3D$mm}",
+    "drip+pan",
+    "_query_:{!edismax+v%3D'(standalone+photo+backup+drive)'+mm%3D$mm}",
+    "standalone+photo+backup+drive",
+    "_query_:{!edismax+v%3D'(drip+pan)'+mm%3D$mm}",
+    "drip+pan",
+    "_query_:{!edismax+v%3D'(vynil+shower+curtains)'+mm%3D$mm}",
+    "vynil+shower+curtains",
+    "_query_:{!edismax+v%3D'(monitors)'+mm%3D$mm}",
+    "monitors",
+    "_query_:{!edismax+v%3D'(portable+treatment+table)'+mm%3D$mm}",
+    "portable+treatment+table"
+]
